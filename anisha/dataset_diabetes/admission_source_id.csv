@@ -1,0 +1,26 @@
+,admission_source_id,description
+0,1, Physician Referral
+1,2,Clinic Referral
+2,3,HMO Referral
+3,4,Transfer from a hospital
+4,5, Transfer from a Skilled Nursing Facility (SNF)
+5,6, Transfer from another health care facility
+6,7, Emergency Room
+7,8, Court/Law Enforcement
+8,9,
+9,10, Transfer from critial access hospital
+10,11,Normal Delivery
+11,12, Premature Delivery
+12,13, Sick Baby
+13,14, Extramural Birth
+14,15,
+15,17,
+16,18, Transfer From Another Home Health Agency
+17,19,Readmission to Same Home Health Agency
+18,20,
+19,21,
+20,22, Transfer from hospital inpt/same fac reslt in a sep claim
+21,23, Born inside this hospital
+22,24, Born outside this hospital
+23,25, Transfer from Ambulatory Surgery Center
+24,26,Transfer from Hospice
